@@ -1,4 +1,4 @@
-# J1010-1413_gws
+# J1010_1413_gws
 
 This repository contains two jupyter notebooks that reproduce the figures in [Goulding+ 2019](arxivorwhateverlinkhere). 
 
