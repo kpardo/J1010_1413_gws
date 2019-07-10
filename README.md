@@ -1,6 +1,6 @@
 # J1010_1413_gws
 
-This repository contains two jupyter notebooks that reproduce the figures in [Goulding+ 2019](arxivorwhateverlinkhere). 
+This repository contains two jupyter notebooks that reproduce the figures in [Goulding+ 2019](https://arxiv.org/abs/1907.03757). 
 
 ## timscales_plot.ipynb
 This makes Fig. 3 in the paper, which shows the timescales for J1010+1413 as a function of semi-major axis.
